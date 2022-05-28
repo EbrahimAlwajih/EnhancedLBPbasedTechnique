@@ -16,10 +16,10 @@
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="EnhancedLBPbasedTechnique" />
-<title>EnhancedLBPbasedTechnique | An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition</title>
+<meta name="google-site-verification" content="VWM3VeSm3HkR2hBbPvXXgfg-1xdX-yjpBqDkNXAJSsc" />
+<tilte EnhancedLBPbasedTechnique | An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition/>
 	  <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition","headline":"EnhancedLBPbasedTechnique","name":"EnhancedLBPbasedTechnique","url":"https://ebrahimalwajih.github.io/EnhancedLBPbasedTechnique/"
-	  </script>
+{"@context":"https://schema.org","@type":"WebSite","description":"An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition","headline":"EnhancedLBPbasedTechnique","name":"EnhancedLBPbasedTechnique","url":"https://ebrahimalwajih.github.io/EnhancedLBPbasedTechnique/</script>
 
   </head>
   <body>
@@ -27,7 +27,7 @@
       <h1><a href="https://ebrahimalwajih.github.io/EnhancedLBPbasedTechnique/">EnhancedLBPbasedTechnique</a></h1>
       
 
-      <meta name="google-site-verification" content="VWM3VeSm3HkR2hBbPvXXgfg-1xdX-yjpBqDkNXAJSsc" />
+      
 
 <p>#Paper: 
 An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition</p>
