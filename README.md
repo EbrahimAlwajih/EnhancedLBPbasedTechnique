@@ -10,6 +10,3 @@ An enhanced LBP-based technique with varies size of sliding window approach for 
 ![image](https://user-images.githubusercontent.com/15468033/170826557-1f91e31b-60c4-48b3-a009-4c31436a7b23.png)
 
 * In this study, all experiments were implemented as the following. Digit image was scaled into 32x32 pixels and then a sliding window of 50% overlap was passed vertically and horizontally making local regions. Then, features were extracted from each region and then all features of every region were concatenated producing feature vectors. For classification, random forest and SVM classifiers were used to investigate and answer the research questions. Moreover, there are some important parameters for the classifiers which are “number of trees” and “number of features” for random forest and the kernel function for SVM. Random forest classifier was set up using 70 trees. In addition, the significant number of trees was proven to be between 64 and 128, and the subset of features have been defined using (⌊log_2⁡〖(#features)+1)〗 ⌋). Linear function was used as the kernel function in SVM.
-
-
-
