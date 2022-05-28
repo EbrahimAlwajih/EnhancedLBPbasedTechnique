@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="VWM3VeSm3HkR2hBbPvXXgfg-1xdX-yjpBqDkNXAJSsc" />
 #Paper: 
 An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition
 
