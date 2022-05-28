@@ -1,10 +1,7 @@
+  <html>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <h1><a href="https://ebrahimalwajih.github.io/EnhancedLBPbasedTechnique/">EnhancedLBPbasedTechnique</a></h1>
-      
 
-      
-
+     
 <p>#Paper: 
 An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition</p>
 
