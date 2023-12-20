@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="VWM3VeSm3HkR2hBbPvXXgfg-1xdX-yjpBqDkNXAJSsc" />
-#Paper: 
-An enhanced LBP-based technique with varies size of sliding window approach for handwritten Arabic digit recognition
+# Paper: 
+An enhanced LBP-based technique with varied size of sliding window approach for handwritten Arabic digit recognition
 
 * To cite this article: Al-wajih, E., Ghazali, R. An enhanced LBP-based technique with various size of sliding window approach for handwritten Arabic digit recognition. Multimed Tools Appl 80, 24399–24418 (2021). https://doi.org/10.1007/s11042-021-10762-x
 
